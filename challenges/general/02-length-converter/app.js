@@ -22,4 +22,7 @@ export {};
 /** @type {HTMLPreElement} */ //@ts-ignore
 const output = document.getElementById("output-container");
 
-// your code will start here.
+// your code will start here
+
+miles = kilometers / 1.609;
+kilometers = miles * 1.609;
