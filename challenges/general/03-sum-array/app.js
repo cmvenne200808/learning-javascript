@@ -24,3 +24,7 @@ export {};
 const output = document.getElementById("output-container");
 
 // your code will start here.
+
+let numbers = [12, 13, 14, -12, -13, -14];
+let negativeNumbers = [-12, -13, -14];
+console.log(negativeNumbers);
